@@ -1,0 +1,259 @@
+ CONJUNTO, EVALUADOR, BUSQUEDA, CLASIFICADOR, FEAT, CCI, TNI, NCCI, NICI, ROC, F-Measure, MEAN, MIN,  MAX, SD, MAX-MIN, FEAT1, FEAT2, FEAT3, FEAT4, FEAT5, FEAT6, FEAT7, FEAT8, FEAT9, FEAT10
+Classification result example,ChiSquaredAttributeEval,Ranker,J48,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,J48,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,J48,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,J48,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,J48,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,J48,3,54.0541,37,20,17,0.6,0.54054,54.0541,54.0541,54.0541,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,J48,2,56.7568,37,21,16,0.62941,0.5682,56.7568,56.7568,56.7568,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,J48,1,64.8649,37,24,13,0.75441,0.64916,64.8649,64.8649,64.8649,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,ADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,ADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,ADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,ADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,ADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,ADTree,3,56.7568,37,21,16,0.72206,0.5682,56.7568,56.7568,56.7568,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,ADTree,2,62.1622,37,23,14,0.73529,0.62162,62.1622,62.1622,62.1622,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,ADTree,1,64.8649,37,24,13,0.75294,0.6439,64.8649,64.8649,64.8649,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,BFTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,BFTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,BFTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,BFTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,BFTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,BFTree,3,59.4595,37,22,15,0.63971,0.5934,59.4595,59.4595,59.4595,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,BFTree,2,59.4595,37,22,15,0.67794,0.59519,59.4595,59.4595,59.4595,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,BFTree,1,70.2703,37,26,11,0.78971,0.70182,70.2703,70.2703,70.2703,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,DecisionStump,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,DecisionStump,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,DecisionStump,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,DecisionStump,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,DecisionStump,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,DecisionStump,3,62.1622,37,23,14,0.62647,0.6136,62.1622,62.1622,62.1622,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,DecisionStump,2,64.8649,37,24,13,0.61471,0.63788,64.8649,64.8649,64.8649,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,DecisionStump,1,62.1622,37,23,14,0.58235,0.60576,62.1622,62.1622,62.1622,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,FT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,FT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,FT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,FT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,FT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,FT,3,64.8649,37,24,13,0.64412,0.64865,64.8649,64.8649,64.8649,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,FT,2,67.5676,37,25,12,0.66765,0.67615,67.5676,67.5676,67.5676,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,FT,1,67.5676,37,25,12,0.66765,0.67615,67.5676,67.5676,67.5676,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,J48graft,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,J48graft,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,J48graft,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,J48graft,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,J48graft,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,J48graft,3,54.0541,37,20,17,0.6,0.54054,54.0541,54.0541,54.0541,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,J48graft,2,56.7568,37,21,16,0.62941,0.5682,56.7568,56.7568,56.7568,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,J48graft,1,64.8649,37,24,13,0.75441,0.64916,64.8649,64.8649,64.8649,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,LADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,LADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,LADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,LADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,LADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,LADTree,3,64.8649,37,24,13,0.76912,0.64916,64.8649,64.8649,64.8649,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,LADTree,2,62.1622,37,23,14,0.70882,0.61881,62.1622,62.1622,62.1622,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,LADTree,1,70.2703,37,26,11,0.74118,0.70182,70.2703,70.2703,70.2703,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,LMT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,LMT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,LMT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,LMT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,LMT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,LMT,3,54.0541,37,20,17,0.70588,0.54121,54.0541,54.0541,54.0541,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,LMT,2,70.2703,37,26,11,0.78824,0.70314,70.2703,70.2703,70.2703,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,LMT,1,67.5676,37,25,12,0.81176,0.67568,67.5676,67.5676,67.5676,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,NBTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,NBTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,NBTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,NBTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,NBTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,NBTree,3,67.5676,37,25,12,0.76029,0.6688,67.5676,67.5676,67.5676,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,NBTree,2,67.5676,37,25,12,0.66176,0.6688,67.5676,67.5676,67.5676,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,NBTree,1,67.5676,37,25,12,0.67059,0.6688,67.5676,67.5676,67.5676,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomForest,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomForest,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomForest,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomForest,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomForest,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomForest,3,56.7568,37,21,16,0.74118,0.5682,56.7568,56.7568,56.7568,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomForest,2,64.8649,37,24,13,0.78235,0.64865,64.8649,64.8649,64.8649,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomForest,1,75.6757,37,28,9,0.83235,0.75711,75.6757,75.6757,75.6757,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomTree,3,67.5676,37,25,12,0.67353,0.67568,67.5676,67.5676,67.5676,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomTree,2,62.1622,37,23,14,0.61471,0.61881,62.1622,62.1622,62.1622,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,RandomTree,1,75.6757,37,28,9,0.74853,0.75347,75.6757,75.6757,75.6757,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,REPTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,REPTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,REPTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,REPTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,REPTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,REPTree,3,54.0541,37,20,17,0.57794,0.53434,54.0541,54.0541,54.0541,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,REPTree,2,56.7568,37,21,16,0.57941,0.56435,56.7568,56.7568,56.7568,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,REPTree,1,64.8649,37,24,13,0.72206,0.6439,64.8649,64.8649,64.8649,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,ChiSquaredAttributeEval,Ranker,SimpleCart,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,SimpleCart,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,SimpleCart,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,ChiSquaredAttributeEval,Ranker,SimpleCart,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,SimpleCart,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,SimpleCart,3,56.7568,37,21,16,0.60882,0.56757,56.7568,56.7568,56.7568,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,SimpleCart,2,59.4595,37,22,15,0.58676,0.58912,59.4595,59.4595,59.4595,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,ChiSquaredAttributeEval,Ranker,SimpleCart,1,64.8649,37,24,13,0.71765,0.6439,64.8649,64.8649,64.8649,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,J48,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,J48,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,J48,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,J48,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,J48,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,J48,3,54.0541,37,20,17,0.6,0.54054,54.0541,54.0541,54.0541,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,J48,2,56.7568,37,21,16,0.62941,0.5682,56.7568,56.7568,56.7568,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,J48,1,64.8649,37,24,13,0.75441,0.64916,64.8649,64.8649,64.8649,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,ADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,ADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,ADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,ADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,ADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,ADTree,3,56.7568,37,21,16,0.72206,0.5682,56.7568,56.7568,56.7568,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,ADTree,2,62.1622,37,23,14,0.73529,0.62162,62.1622,62.1622,62.1622,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,ADTree,1,64.8649,37,24,13,0.75294,0.6439,64.8649,64.8649,64.8649,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,BFTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,BFTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,BFTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,BFTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,BFTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,BFTree,3,59.4595,37,22,15,0.63971,0.5934,59.4595,59.4595,59.4595,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,BFTree,2,59.4595,37,22,15,0.67794,0.59519,59.4595,59.4595,59.4595,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,BFTree,1,70.2703,37,26,11,0.78971,0.70182,70.2703,70.2703,70.2703,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,DecisionStump,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,DecisionStump,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,DecisionStump,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,DecisionStump,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,DecisionStump,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,DecisionStump,3,62.1622,37,23,14,0.62647,0.6136,62.1622,62.1622,62.1622,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,DecisionStump,2,64.8649,37,24,13,0.61471,0.63788,64.8649,64.8649,64.8649,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,DecisionStump,1,62.1622,37,23,14,0.58235,0.60576,62.1622,62.1622,62.1622,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,FT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,FT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,FT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,FT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,FT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,FT,3,64.8649,37,24,13,0.64412,0.64865,64.8649,64.8649,64.8649,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,FT,2,67.5676,37,25,12,0.66765,0.67615,67.5676,67.5676,67.5676,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,FT,1,67.5676,37,25,12,0.66765,0.67615,67.5676,67.5676,67.5676,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,J48graft,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,J48graft,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,J48graft,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,J48graft,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,J48graft,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,J48graft,3,54.0541,37,20,17,0.6,0.54054,54.0541,54.0541,54.0541,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,J48graft,2,56.7568,37,21,16,0.62941,0.5682,56.7568,56.7568,56.7568,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,J48graft,1,64.8649,37,24,13,0.75441,0.64916,64.8649,64.8649,64.8649,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,LADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,LADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,LADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,LADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,LADTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,LADTree,3,64.8649,37,24,13,0.76912,0.64916,64.8649,64.8649,64.8649,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,LADTree,2,62.1622,37,23,14,0.70882,0.61881,62.1622,62.1622,62.1622,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,LADTree,1,70.2703,37,26,11,0.74118,0.70182,70.2703,70.2703,70.2703,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,LMT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,LMT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,LMT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,LMT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,LMT,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,LMT,3,54.0541,37,20,17,0.70588,0.54121,54.0541,54.0541,54.0541,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,LMT,2,70.2703,37,26,11,0.78824,0.70314,70.2703,70.2703,70.2703,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,LMT,1,67.5676,37,25,12,0.81176,0.67568,67.5676,67.5676,67.5676,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,NBTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,NBTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,NBTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,NBTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,NBTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,NBTree,3,67.5676,37,25,12,0.76029,0.6688,67.5676,67.5676,67.5676,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,NBTree,2,67.5676,37,25,12,0.66176,0.6688,67.5676,67.5676,67.5676,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,NBTree,1,67.5676,37,25,12,0.67059,0.6688,67.5676,67.5676,67.5676,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,RandomForest,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,RandomForest,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,RandomForest,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,RandomForest,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,RandomForest,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,RandomForest,3,56.7568,37,21,16,0.74118,0.5682,56.7568,56.7568,56.7568,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,RandomForest,2,64.8649,37,24,13,0.78235,0.64865,64.8649,64.8649,64.8649,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,RandomForest,1,75.6757,37,28,9,0.83235,0.75711,75.6757,75.6757,75.6757,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,RandomTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,RandomTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,RandomTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,RandomTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,RandomTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,RandomTree,3,67.5676,37,25,12,0.67353,0.67568,67.5676,67.5676,67.5676,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,RandomTree,2,62.1622,37,23,14,0.61471,0.61881,62.1622,62.1622,62.1622,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,RandomTree,1,75.6757,37,28,9,0.74853,0.75347,75.6757,75.6757,75.6757,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,REPTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,REPTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,REPTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,REPTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,REPTree,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,REPTree,3,54.0541,37,20,17,0.57794,0.53434,54.0541,54.0541,54.0541,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,REPTree,2,56.7568,37,21,16,0.57941,0.56435,56.7568,56.7568,56.7568,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,REPTree,1,64.8649,37,24,13,0.72206,0.6439,64.8649,64.8649,64.8649,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Classification result example,FilteredAttributeEval,Ranker,SimpleCart,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Diam_threshold Mean','Diam_threshold SD'
+Classification result example,FilteredAttributeEval,Ranker,SimpleCart,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','Fragmentation SD','Bif_tilt_remote SD'
+Classification result example,FilteredAttributeEval,Ranker,SimpleCart,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Parent_Daughter_Ratio SD','Pk Mean','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean','EucDistance SD','Fragmentation SD'
+Classification result example,FilteredAttributeEval,Ranker,SimpleCart,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD','Last_parent_diam Mean','Pk Mean','Parent_Daughter_Ratio SD','Partition_asymmetry Mean','Parent_Daughter_Ratio Mean',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,SimpleCart,0,0,0,0,0,0,0,0,0,0,0,0,'Pk_classic Mean','Pk SD','Pk_2 Mean','Last_parent_diam Mean',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,SimpleCart,3,56.7568,37,21,16,0.60882,0.56757,56.7568,56.7568,56.7568,0,0,'Pk_classic Mean','Pk_2 Mean','Pk SD',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,SimpleCart,2,59.4595,37,22,15,0.58676,0.58912,59.4595,59.4595,59.4595,0,0,'Pk SD','Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' '
+Classification result example,FilteredAttributeEval,Ranker,SimpleCart,1,64.8649,37,24,13,0.71765,0.6439,64.8649,64.8649,64.8649,0,0,'Pk_2 Mean',' ',' ',' ',' ',' ',' ',' ',' ',' '
